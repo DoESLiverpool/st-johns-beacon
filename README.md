@@ -8,9 +8,4 @@ an Arduino inside.
  * Alternative git repo is at: [git.defproc.co.uk/DefProc/st-johns-beacon](https://git.defproc.co.uk/DefProc/st-johns-beacon)
  * Original CAD models are at [cad.onshape.com](https://cad.onshape.com/documents/28927cba45614a8eae7bdee6)
 
-TODO
-----
 
- * Add the small round holes up the side of the base (?)
- * Create the letter blocks for the circumfrence (in progress)
- * Manual support areas for the cupola base holes (printed upside down)
