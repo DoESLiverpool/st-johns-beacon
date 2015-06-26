@@ -1,0 +1,3 @@
+[submodule "beaconbot"]
+	path = beaconbot
+	url = git@github.com:brett-lempereur/beaconbot.git
